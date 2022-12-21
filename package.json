@@ -1,12 +1,8 @@
 {
-  "name": "access-control-sc",
+  "name": "rps-homework",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "deploy:goerli": "hardhat run scripts/deploy.ts --network goerli",
-    "deploy:mainnet": "hardhat run scripts/deploy.ts --network mainnet"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",

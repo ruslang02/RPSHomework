@@ -9,8 +9,7 @@ const config: HardhatUserConfig = {
     ? {
       goerli: {
         url: GOERLI_URL,
-        accounts: [GOERLI_ACCOUNT],
-        gas: 12000000
+        accounts: [GOERLI_ACCOUNT]
       }
     }
     : {}
